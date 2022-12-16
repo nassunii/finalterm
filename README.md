@@ -3,14 +3,14 @@
   
 ## Configuration Information
 
-### What you do in your project
+### 1. What you do in your project
 
 #### training data를 통해 algorithm을 학습시키고 parameter조정을 통해 test data의 정확도를 높였다.
 
-### Explain the training dataset
+### 2. Explain the training dataset
 #### 여러가지 뇌종양 있는 세포들과 표본 뇌 데이터들
 
-### Explain the algorithm you choose
+### 3. Explain the algorithm you choose
 #### SVC, KNN, ExtraTreeClassifier
   
     SVC는 Classification에 사용되는 SVM 모델을 의미하며, 분류에 사용되는 지도학습 머신러닝 모델이다.
@@ -27,7 +27,7 @@
     하나의 decision tree만 생각하면 score가 낮아질 수 있지만 결국 decision트리의 앙상블이므로 
     score가 보완되고 결과적으론 과대적합을 막는다.
 
-## parameter
+## 4. parameter
       n_neighbors : 갯수가 많아지면 결정 경계가 단순해진다.
       c : 각 포인트의 중요도를 제한하는 매개변수로, 해당값이 커질수록 결정경계가 데이터에 정확하게 맞춰진다. 
       (작을수록 과대적합을 방지함)
