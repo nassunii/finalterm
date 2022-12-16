@@ -19,5 +19,5 @@
       n_estimators : 생성할 의사결정 나무 개수이다.
 
 ## Contact information
-     홍예선
-     ghddptjs@cau.ac.kr
+#### 홍예선
+#### ghddptjs@cau.ac.kr
