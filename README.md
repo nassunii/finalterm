@@ -1,5 +1,5 @@
 # finalterm
-### training data를 통해 algorithm을 학습시키고 parameter조정을 통해 test data의 정확도를 높였다.
+#### training data를 통해 algorithm을 학습시키고 parameter조정을 통해 test data의 정확도를 높였다.
 
 ## training dataset
 ### 여러가지 뇌종양 있는 세포들과 표본 뇌 데이터들
